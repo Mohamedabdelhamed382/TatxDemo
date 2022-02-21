@@ -1,0 +1,6 @@
+framework module Pods_TatxDemo_TatxDemoUITests {
+  umbrella header "Pods-TatxDemo-TatxDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
